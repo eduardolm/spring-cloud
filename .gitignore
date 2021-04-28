@@ -1,0 +1,11 @@
+.idea
+config-server/build
+gateway/build
+product-catalog/build
+service-discovery/build
+shopping-cart/.idea
+config-server/.idea
+gateway/.idea
+product-catalog/.idea
+service-discovery/.idea
+shopping-cart/.idea
